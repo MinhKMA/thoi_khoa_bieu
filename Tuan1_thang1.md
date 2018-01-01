@@ -13,3 +13,4 @@ Thời gian | Thứ 2 | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7 | CN |
 Ghi chú:
 
 - Vào buổi tối có thể cùng trao đổi với các anh bất cứ thời gian nào và bất cứ lĩnh vực nào 
+- Riêng thứ 7 và chủ nhật sẽ hệ thống lại kiến thức và lập lịch trình cho tuần tiếp theo
